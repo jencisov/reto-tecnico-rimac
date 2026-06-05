@@ -1,0 +1,4 @@
+:HL["/reto-tecnico-rimac/_next/static/chunks/6dd00e9f306c6d28.css","style"]
+:HL["/reto-tecnico-rimac/_next/static/chunks/9b69ad238e630ad0.css","style"]
+:HL["/reto-tecnico-rimac/_next/static/chunks/cf0dffa85de36bbc.css","style"]
+0:{"buildId":"IeAxQ9dJO7xDQtMNAyC10","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"cotizacion","paramType":null,"paramKey":"cotizacion","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
