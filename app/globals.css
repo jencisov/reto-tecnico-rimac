@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import "@rimac-seguros/ride-system-tokens/dist/tailwind/v4/index.css";
+@import "@rimac-seguros/ride-system-tokens/dist/tailwind/v4/utilities.css";
+@import "@rimac-seguros/ride-system-tokens/dist/css/fonts/br-sonoma.css";
+
+body {
+    font-family: var(--ride-gl-font-family-primary);
+    color: var(--color-ride-sys-color-text-extreme);
+}
+
+.headline-13-black {
+    color: #141938;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+}
+
+.paragraph-7-reg {
+    color: #141938;
+    font-family: Lato, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
